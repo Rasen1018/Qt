@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/aligncenter.png</file>
+        <file>image/alignjustify.png</file>
+        <file>image/alignleft.png</file>
+        <file>image/alignright.png</file>
+        <file>image/Copy.png</file>
+        <file>image/Cut.png</file>
+        <file>image/exit.png</file>
+        <file>image/new.png</file>
+        <file>image/open.png</file>
+        <file>image/Paste.png</file>
+        <file>image/Redo.png</file>
+        <file>image/save.png</file>
+        <file>image/Undo.png</file>
+        <file>image/zoomIn.png</file>
+        <file>image/zoomOut.png</file>
+    </qresource>
+</RCC>
